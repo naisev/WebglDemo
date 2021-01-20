@@ -1,3 +1,3 @@
 # WebglDemo
-WebglDemo
-this is a webgl demo
+Hi
+this is a WebGL 3D objects demo
